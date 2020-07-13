@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hii its me
+=======
+Hi
+>>>>>>> 866387e1c98e66ef803a45d57da77b7a47f0fdd6
